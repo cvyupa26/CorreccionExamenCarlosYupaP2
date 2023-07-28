@@ -7,8 +7,8 @@
     "empleados": [
         {
             "cedulaIdentidad": "00000000",
-            "apellidos": "Rodriguez",
-            "nombres": "Kalel",
+            "apellidos": "Yupa",
+            "nombres": "Carlos",
             "numeroDeCuenta": "2204653675"
         },
         {
@@ -40,7 +40,7 @@
     "rucEmpresa": "6184821507232",
     "cuentaPrincipal": "9358356156",
     "empleadoPago":{
-        "numeroCuenta":"2204653677",
+        "numeroCuenta":"2204653675",
         "valor":60
     }
   }
