@@ -1,0 +1,46 @@
+1 Servicio
+{
+    "id": 1,
+    "ruc": "6184821507232",
+    "razonsocial": "Finance",
+    "cuenprincipal": "9358356156",
+    "empleados": [
+        {
+            "cedulaIdentidad": "00000000",
+            "apellidos": "Rodriguez",
+            "nombres": "Kalel",
+            "numeroDeCuenta": "2204653675"
+        },
+        {
+            "cedulaIdentidad": "11111111",
+            "apellidos": "Guaman",
+            "nombres": "Kalel",
+            "numeroDeCuenta": "2204653676"
+        },
+        {
+            "cedulaIdentidad": "22222222",
+            "apellidos": "Luzas",
+            "nombres": "Kara",
+            "numeroDeCuenta": "2204653677"
+        }
+        ,
+        {
+            "cedulaIdentidad": "22222222",
+            "apellidos": "Orna",
+            "nombres": "Joshue",
+            "numeroDeCuenta": "2204653678"
+        }
+    ]
+}
+
+2 Servicio
+{
+    "mes": "enero",
+    "fechaProceso": "2023-06-16T03:51:40.000Z",
+    "rucEmpresa": "6184821507232",
+    "cuentaPrincipal": "9358356156",
+    "empleadoPago":{
+        "numeroCuenta":"2204653677",
+        "valor":60
+    }
+  }
