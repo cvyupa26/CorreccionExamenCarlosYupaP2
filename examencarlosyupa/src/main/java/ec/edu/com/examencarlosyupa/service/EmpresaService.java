@@ -14,7 +14,6 @@ import ec.edu.com.examencarlosyupa.model.Empresa;
 import ec.edu.com.examencarlosyupa.repository.EmpresaRepository;
 import lombok.Data;
 
-@Data
 @Service
 public class EmpresaService {
 

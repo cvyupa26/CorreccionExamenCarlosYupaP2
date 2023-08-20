@@ -78,7 +78,6 @@ public class PagoRolService {
                 throw new RuntimeException("No existe el rol de pagos");
             }
 
-
         }
 
 
